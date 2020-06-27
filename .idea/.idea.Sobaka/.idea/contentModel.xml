@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\TheVer4\.Rider2019.3\config\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\TheVer4\.Rider2019.3\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\TheVer4\.Rider2019.3\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\TheVer4\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\TheVer4\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Sobaka.-1707635459.00" t="ExcludeRecursive" />
+    <e p="D:\Projects\csharp\Sobaka" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Sobaka" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Sobaka.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Sobaka.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Sobaka.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

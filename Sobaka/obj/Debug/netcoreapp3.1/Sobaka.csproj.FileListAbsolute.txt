@@ -1,0 +1,13 @@
+D:\Projects\csharp\Sobaka\Sobaka\bin\Debug\netcoreapp3.1\Sobaka.exe
+D:\Projects\csharp\Sobaka\Sobaka\bin\Debug\netcoreapp3.1\Sobaka.deps.json
+D:\Projects\csharp\Sobaka\Sobaka\bin\Debug\netcoreapp3.1\Sobaka.runtimeconfig.json
+D:\Projects\csharp\Sobaka\Sobaka\bin\Debug\netcoreapp3.1\Sobaka.runtimeconfig.dev.json
+D:\Projects\csharp\Sobaka\Sobaka\bin\Debug\netcoreapp3.1\Sobaka.dll
+D:\Projects\csharp\Sobaka\Sobaka\bin\Debug\netcoreapp3.1\Sobaka.pdb
+D:\Projects\csharp\Sobaka\Sobaka\obj\Debug\netcoreapp3.1\Sobaka.csprojAssemblyReference.cache
+D:\Projects\csharp\Sobaka\Sobaka\obj\Debug\netcoreapp3.1\Sobaka.csproj.CoreCompileInputs.cache
+D:\Projects\csharp\Sobaka\Sobaka\obj\Debug\netcoreapp3.1\Sobaka.AssemblyInfoInputs.cache
+D:\Projects\csharp\Sobaka\Sobaka\obj\Debug\netcoreapp3.1\Sobaka.AssemblyInfo.cs
+D:\Projects\csharp\Sobaka\Sobaka\obj\Debug\netcoreapp3.1\Sobaka.dll
+D:\Projects\csharp\Sobaka\Sobaka\obj\Debug\netcoreapp3.1\Sobaka.pdb
+D:\Projects\csharp\Sobaka\Sobaka\obj\Debug\netcoreapp3.1\Sobaka.genruntimeconfig.cache
